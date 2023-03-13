@@ -1,5 +1,7 @@
 ## [Submission Here](https://forms.gle/eFRiWrimKQRLTCyu5)
 
+> or just fork repo
+
 # Slow Sorting Algorithm Challenge:
 
 >The coder must write a sorting algorithm that sorts a list of integers in ascending order.
@@ -46,4 +48,4 @@
 > - You can implement your algorithm in ```slow_sort.py``` ```slow_sort()``` function
 > - You can verify the correctness of your algorithm by running ```verifier.py```
 > - You can compare your algorithm to Bubble Sort by running ```compare.py``` (This can take long!)
-> - Solutions can be submitted [here](https://forms.gle/eFRiWrimKQRLTCyu5)
+> - Solutions can be submitted [here](https://forms.gle/eFRiWrimKQRLTCyu5) (or just fork repo)
