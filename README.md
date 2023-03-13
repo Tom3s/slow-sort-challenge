@@ -21,9 +21,9 @@
 
 > The algorithm must be deterministic, meaning that given the same input, it should produce the same output every time.
 
-> Time complexity analysis and an explanation of the design choices made to intentionally slow down the algorithm are welcome
+> Time complexity analysis and an explanation of the design choices made to intentionally slow down the algorithm are welcome [(example)](https://github.com/cs-ubbcluj-ro/slow-sort-submission/blob/main/README.md)
 
-> Extra smiles for well-documented and readable code
+> Extra smiles for well-documented [(example)](https://github.com/cs-ubbcluj-ro/slow-sort-submission/blob/main/README.md) and readable code (don't use single letter variable names please)
 
 > The algorithm must be functional and able to correctly sort a list of integers in ascending order.
 
