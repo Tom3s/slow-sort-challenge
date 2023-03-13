@@ -17,7 +17,7 @@
 
 > The algorithm must be deterministic, meaning that given the same input, it should produce the same output every time.
 
-> The algorithm must be submitted with a time complexity analysis and an explanation of the design choices made to intentionally slow down the algorithm.
+> Time complexity analysis and an explanation of the design choices made to intentionally slow down the algorithm are welcome
 
 > Extra smiles for well-documented and readable code
 
@@ -25,7 +25,8 @@
 
 > The winner will be determined based on the slowest sorting algorithm that still meets all of the above criteria.
 
-> input format:
+# Input format
+
 > ```cpp
 > n // size of list
 > A1 // list of numbers
