@@ -41,5 +41,6 @@
 
 ## Usage/Testing
 
+> - You can implement your algorithm in ```slow_sort.py``` ```slow_sort()``` function
 > - You can verify the correctness of your algorithm by running ```verifier.py```
 > - You can compare your algorithm to Bubble Sort by running ```compare.py``` (This can take long!)
