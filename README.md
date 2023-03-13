@@ -36,7 +36,7 @@
 > ``` 
 >
 > constraints: 
-> -size < An < size
+> -size <= An <= size
 
 
 ## Usage/Testing
