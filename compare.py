@@ -12,4 +12,4 @@ with open('numbers10000.txt', 'r') as file:
 
 lib = BigO()
 
-lib.compare(slow_sort_algorithm, bubble_sort, numbers, 1)
+lib.compare(slow_sort_algorithm, bubble_sort, numbers, 10)
