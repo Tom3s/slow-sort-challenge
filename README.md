@@ -13,7 +13,7 @@
 
 > The algorithm must be implemented in a language of the coder's choice.
 
-> The algorithm must be able to handle lists of any length.
+> The algorithm must be able to handle lists of any length (tho the given inputs are of length 50, 1k, 10k and 1m).
 
 > The algorithm must be deterministic, meaning that given the same input, it should produce the same output every time.
 
