@@ -27,7 +27,7 @@
 
 > The algorithm must be functional and able to correctly sort a list of integers in ascending order.
 
-> The winner will be determined based on the slowest sorting algorithm that still meets all of the above criteria.
+> The point of this is to come up with creative but stupid sorts
 
 # Input format
 
